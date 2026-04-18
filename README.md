@@ -1,31 +1,23 @@
-# 👋 Hello, I'm Hrieeyzzz
-
-### 🛡️ Low-Level Enthusiast & Security Researcher
-I specialize in system-level programming and vulnerability research, moving between the precision of C/C++ and the complexity of modern security exploits.
+# █░█ █▀█ █▀█ █▀▀ █▀▀ █▄█ █▀█ █▀█ █▀█
+# █▀█ █▀▄ █▄█ ██▄ ██▄ ░█░ ▀▀█ ▀▀█ ▀▀█
 
 ---
 
-### 🛠️ Languages & Skills
-- **Low Level:** ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-- **Security:** ![Pwn](https://img.shields.io/badge/Pwn-FF0000?style=flat-square&logo=hackthebox&logoColor=white) (Binary Exploitation, Reverse Engineering)
-- **Data & Web:** ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+### ⚡ Skills
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Pwn](https://img.shields.io/badge/-Pwn-e91e63?style=for-the-badge&logo=linux&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ---
 
-### 🧰 Tools of the Trade
-- **Editor:** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-- **AI & Automation:** Claude, AI-integrated workflows
-- **Research:** Antigravity concepts and deep-dive technical explorations
+### 🛠️ Tools
+![Antigravity](https://img.shields.io/badge/-Antigravity-000000?style=for-the-badge&logo=spacex&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AI Tools](https://img.shields.io/badge/-AI_Tools-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
-![Hrieeyzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hrieeyzzz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hrieeyzzz&layout=compact&theme=radical)
-
----
-
-### 📫 Connect with me
-- **GitHub:** [Hrieeyzzz](https://github.com/Hrieeyzzz)
-
-*"Solving problems at the layer where gravity doesn't apply."*
+![Stats](https://github-readme-stats.vercel.app/api?username=Hrieeyzzz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
