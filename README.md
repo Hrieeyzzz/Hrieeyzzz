@@ -1,6 +1,6 @@
 # ʜʀɪᴇᴇʏᴢᴢᴢ
 
-`C` • `C++` • `Pwn` • `SQL` • `HTML`
+`power of Pazham Pori`
 
 ---
 
